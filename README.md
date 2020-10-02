@@ -21,7 +21,7 @@ Cesar.decode(encrypted_message, <offset_in_alphabet>, <language_targetted>)
 Vigenere.encode(message_to_crypt, key)
 Vigenere.decode(encrypted_message, <key>, <language_targetted>, <print_steps_of_crack>)
 ```
-<arguments> are optionnal arguments.
+`<arguments>` are optionnal arguments.
 If not any key is provided to Cesar.decode() and Vigenere.decode() the program will crack the key by itself.
 
 ## Example
