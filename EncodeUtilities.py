@@ -2,7 +2,6 @@ from LanguageUtilities import *
 import unicodedata
 import math
 
-
 #  Format the text ( uppercase, accents, ... )
 def format(text):
     global alphabet

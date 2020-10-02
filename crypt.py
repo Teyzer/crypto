@@ -16,9 +16,9 @@ class Cesar:
         
     
     @staticmethod
-    def decode(text, step=False):
+    def decode(text, step=False, language="fr"):
         if not step:
-            return Cracker.cesar(text)
+            return Cracker.cesar(text, language)
         return Cesar.encode(text, step * -1)
 
 
