@@ -1,6 +1,6 @@
 # Crypto
 
-This project is based on the Vigenere and Cesar methods of cryptography. You can both encrypt and decrypt message with the givens function in this project. You can also crack encrypted messages, as long as you have a sufficient amount of text to provide. It can work in English, French, Spanish and German.
+This project is based on the Vigenere and Cesar methods of cryptography. You can both encrypt and decrypt message with the givens function in this project. You can also crack encrypted messages, as long as you have a sufficient amount of text to provide. It can work in English, French, Spanish and German. It was made for a NSI course. (Sainte Marie highschool, Mr Leroy)
 
 ## Table of contents
 * [Technology](#technology)
