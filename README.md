@@ -26,4 +26,4 @@ If not any key is provided to Cesar.decode() and Vigenere.decode() the program w
 
 ## Example
 
-In the givens file ( especially `main.py` , the example is made from a french political speech of 24 886 characters, and is encrypted with Vigenere.encode() with the key `HELLOTOUTLEMONDEDOINGWELL` ( 26 characters ) and is perfectly decrypted by Vigenere.decode(), without the key.
+In the givens file, the example ( made in `main.py` ) is made from a french political speech of 24 886 characters, and is encrypted with Vigenere.encode() with the key `HELLOTOUTLEMONDEDOINGWELL` ( 26 characters ) and is perfectly decrypted by Vigenere.decode(), without the key.
